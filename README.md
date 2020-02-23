@@ -13,5 +13,6 @@ Resultatet som loggas ut i webbläsarens konsol är en array med gissningar frå
 
 ## Instruktioner
 
-För att testa modellen själv, byt src i img-taggen i image.html. 
+För att testa modellen själv, kopiera ner repot och byt src i img-taggen i image.html. 
 Om du vill testa med en annan bild, spara din bild i "images" mappen och länka till den genom att ändra src för img-taggen i image.html.
+Du kan sedan köra projektet med live-server och se resultatet i webbläsarens konsol.
