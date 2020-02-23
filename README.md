@@ -5,8 +5,11 @@ I detta repo så testar jag precis hur enkelt det är att sätta upp ett maskini
 
 Stegen för att skapa ett eget projekt är enkla:
 1. Länka till ml5.js biblioteket via cdn:
+
 2. Initiera modellen i en variabel.
+
 2.1 Spara bilden i en variabel. (Alternativt hänvisa till den direkt i klassificeringsfunktionen)
+
 3. Kör klassificeringsfunktionen för modellen och hänvisa till bilden.
 
 Resultatet som loggas ut i webbläsarens konsol är en array med gissningar från modellen, vilken är ordnad efter modellens övertygelse att bilden representerar den labeln.
